@@ -1,0 +1,25 @@
+.container {
+    margin-top: 20px;
+    font-family: playfair display;
+}
+
+.header {
+    float: right;
+    color: darkcyan;
+}
+
+button {
+    color: darkgrey;
+}
+
+strong {
+    padding-left: 5px;
+    font-size: 2rem;
+    color: darkgrey;
+
+}
+
+strong,
+img {
+    cursor: pointer;
+}

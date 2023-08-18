@@ -1,0 +1,39 @@
+img {
+    margin-top: 5px;
+    opacity: 0.8;
+    float: left;
+}
+
+h4 {
+    color: white;
+
+}
+
+p {
+    color: white;
+    font-size: large;
+}
+
+h4,
+p {
+    margin-top: 20px;
+    padding-left: 370px;
+}
+
+.container-2 {
+    margin-top: 250px;
+}
+
+.container-2>img {
+    float: right;
+    margin-left: 20px;
+}
+
+h5 {
+    color: white;
+    font-size: 1.6rem;
+}
+
+.container-2>p {
+    padding-left: 0px;
+}

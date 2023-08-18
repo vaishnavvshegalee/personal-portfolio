@@ -1,0 +1,16 @@
+.flexbox {
+    color: white;
+    text-align: center;
+    margin-top: 40vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 1.8rem;
+    color: gray;
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
